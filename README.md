@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="dlcd 2" src="https://github.com/user-attachments/assets/19ae74ef-b383-4dc6-8790-5545f23b5bf7" /># EXPT 2 - Verification of Logic Gates
+# EXPT 2 - Verification of Logic Gates
 ### SIMULATION AND VERIFICATION OF AND, OR, AND NOT GATES
 ## Aim
 To design, implement, and verify the functionality of basic AND, OR, and NOT logic gates using Verilog HDL, and verify the functionality using Synopsys VCS and DVE.
@@ -21,6 +21,7 @@ File name	Purpose
 logic_gates.v	Logic-gate RTL
 logic_gates_tb.v	All input combinations and VCD generation
  # Verilog  Program
+ 
 
 # **Test Bench Program**
 
